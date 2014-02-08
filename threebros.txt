@@ -1,0 +1,38 @@
+Threebros
+=========
+Rino Jose <@rjose>
+
+Overview
+--------
+I need to learn how to make something move around in a game. The
+first step is to get it to move around. The second step is to create
+some obstacles. The third step is to pan as we move.
+
+Prototypes
+----------
+
+        * [] Proto1: Move a character around [X][][]
+        * [] Proto2: Move around obstacles [][][][]
+        * [] Proto3: Pan during a move [][][]
+        * [] Proto4: Animating during moving [][][]
+
+
+Proto1: Move a character around
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Alright, we should be able to use the doodle jump mechanics, I
+think. I should be able to repurpose most of the doodle jump stuff.
+Just take out gravity. Still use the same assets. Let's create a new
+workspace in '~/prototypes/3bros' and then have each project by a new
+prototype. Done. I also got the game running. Now, let's remove
+gravity and see if I can read a movement vector. Hmmm...this doesn't
+seem very obvious. I wonder if I should start with something super
+basic. Let's do the same thing as the demo examples they give.
+
+We'll start with the demo example just before the jumper. I'll get
+it set up with the new SDK and then rename it. Once that's done,
+I'll strip it down and then check it in. Let's see if we can git an
+eclipse git plugin to work. Done.
+
+OK, I've co-opted the cannon test to use as the move test. I want to
+see if I can get a vector first from a drag. After that, I'll move
+something around.
