@@ -36,3 +36,5 @@ eclipse git plugin to work. Done.
 OK, I've co-opted the cannon test to use as the move test. I want to
 see if I can get a vector first from a drag. After that, I'll move
 something around.
+
+Alright, let's see if I can compute a drag vector.
